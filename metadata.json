@@ -1,0 +1,6 @@
+{
+  "name": "Fahim — Industrial Rolling-Counter Portfolio",
+  "description": "An award-level skeuomorphic industrial UX designer portfolio hero with a mechanical odometer rolling counter, projected cylinder drums, tactile physics, and live clock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
